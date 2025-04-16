@@ -1,0 +1,3 @@
+"""
+Employee Attrition Analysis package.
+""" 
